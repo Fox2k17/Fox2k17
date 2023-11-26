@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙃Backend Developer<br>😎Node.js enjoyer<br>😶JAVA / C# / PHP 
+🙃Backend Developer<br>😎Node.js enjoyer<br>😶JAVA / PYTHON / PHP 
 
 
 ## 🌐 Socials:
