@@ -1,4 +1,7 @@
-# 👋 Siemano [![](https://visitcount.itsvg.in/api?id=Fox2k17&icon=0&color=1)](https://visitcount.itsvg.in)
+<h1 align="left">👋 Siemano</h1>
+
+###
+
 <div align="left">
   <a href="https://twitter.com/Fox2k17_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -8,4 +11,12 @@
   </a>
 </div>
 
+###
+
 ![](https://github-readme-stats.vercel.app/api?username=Fox2k17&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+###
+
+[![](https://visitcount.itsvg.in/api?id=Fox2k17&icon=0&color=1)](https://visitcount.itsvg.in)
+
+###
